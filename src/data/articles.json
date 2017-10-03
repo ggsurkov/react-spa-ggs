@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "pro-tips-from-react-developers",
+    "title": "6 Pro Tips from React Developers",
+    "source": "sitepoint.com",
+    "topic": "frontend-en",
+    "description": "If you’re new to React, you could benefit from learning from the success—and failures—of React developers who’ve learned valuable lessons about the framework."
+  },
+  {
+    "slug": "сoffeeScript-2-0",
+    "title": "Выпущена вторая версия языка программирования CoffeeScript",
+    "source": "tproger.ru",
+    "topic": "frontend-ru",
+    "description": "Новый релиз языка и компилятора стремится внести CoffeeScript в современную эпоху JavaScript, устраняя пробелы в совместимости и сохраняя чистый синтаксис, который и является визитной карточкой языка."
+  },
+  {
+    "slug": "песнь-ветра-и-крови",
+    "title": "Песнь ветра и крови",
+    "source": "sitepoint.com",
+    "topic": "serial-tracker",
+    "description": "Телеканал History, не так давно продливший свой флагманский сериал «Викинги» на шестой сезон, опубликовал в Сети новый тизер, намекающий зрителям на то, что будущие серии вновь порадуют их накалом страстей и обилием кровавых сражений. По традиции, не последнюю роль в битвах сыграют воинственные женщины."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "frontend-en",
+    "title": "Frontend EN"
+  },
+  {
+    "id": "frontend-ru",
+    "title": "Frontend RU"
+  },
+  {
+    "id": "serial-tracker",
+    "title": "Сериал Трекер"
+  }
+]
