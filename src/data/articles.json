@@ -14,10 +14,31 @@
     "description": "Новый релиз языка и компилятора стремится внести CoffeeScript в современную эпоху JavaScript, устраняя пробелы в совместимости и сохраняя чистый синтаксис, который и является визитной карточкой языка."
   },
   {
+    "slug": "Using-Preact-as-a-React-Alternative",
+    "title": "Using Preact as a React Alternative",
+    "source": "sitepoint.com",
+    "topic": "frontend-en",
+    "description": "Preact is an implementation of the virtual DOM component paradigm just like React and many other similar libraries. Unlike React, it’s only 3KB in size, and it also outperforms it in terms of speed. It’s created by Jason Miller and available under the well-known permissive and open-source MIT license."
+  },
+  {
+    "slug": "Миграция-с-Webpack-2-на-Webpack-3",
+    "title": "Миграция с Webpack 2 на Webpack 3",
+    "source": "vaeum.com",
+    "topic": "frontend-ru",
+    "description": "Главной фитчей стало Scope Hoisting, так как в ранних версиях Webpack оборачивал каждый модуль в функцию обертку со своей областью видимости, что замедляет работу JavaScript в браузере. Теперь же все модули в проекте имеют общую область видимости, что ускоряет выполнение вашего кода."
+  },
+  {
     "slug": "песнь-ветра-и-крови",
     "title": "Песнь ветра и крови",
-    "source": "sitepoint.com",
+    "source": "lostfilm.tv",
     "topic": "serial-tracker",
     "description": "Телеканал History, не так давно продливший свой флагманский сериал «Викинги» на шестой сезон, опубликовал в Сети новый тизер, намекающий зрителям на то, что будущие серии вновь порадуют их накалом страстей и обилием кровавых сражений. По традиции, не последнюю роль в битвах сыграют воинственные женщины."
+  },
+  {
+    "slug": "в-кишках-зомби-мира",
+    "title": "В кишках зомби-мира",
+    "source": "lostfilm.tv",
+    "topic": "serial-tracker",
+    "description": "Поскольку финал третьего сезона «Нации Z» оставил после себя больше вопросов, чем ответов, новой главы о приключениях героев в мире зомби зрители ждали с огромным нетерпением. LostFilm.TV предлагает скрасить это ожидание за просмотром озвученного трейлера к новым эпизодам, в котором нашлось место для юмора, экшена и даже зомби-шаров. Также создатели комедийного хоррора опубликовали в Сети постер, напоминающий о том, как хорошо быть живым."
   }
 ]

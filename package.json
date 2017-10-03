@@ -2,6 +2,12 @@
   "name": "react-spa-ggs",
   "version": "0.1.0",
   "private": true,
+  "babel": {
+    "presets": [
+      "es2015",
+      "react"
+    ]
+  },
   "dependencies": {
     "material-components-web": "^0.22.0",
     "react": "^16.0.0",
@@ -10,10 +16,17 @@
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.0.14"
   },
+  "devDependencies": {
+    "webpack": "^3.6.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "bundle": "webpack",
+    "test": "react-scripts test --env=jsdom"
   }
 }
